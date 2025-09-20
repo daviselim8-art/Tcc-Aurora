@@ -1,2 +1,1 @@
-# Tcc-Aurora
-tcc
+# Meu Projeto TCC
